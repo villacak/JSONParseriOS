@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSONParseriOS/Parsers.swift"
+            timestampString = "502676292.479163"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in JSONParseriOSTests):JSONParseriOSTests.JSONSerializable.fromJson (jsonInfo : Any) -&gt; Swift.AnyObject"
+                  moduleName = "JSONParseriOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klausvillaca/development/xCodeProjects/swift/JSONParseriOS/JSONParseriOS/Parsers.swift"
+                  timestampString = "497628666.063407"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "3684">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in JSONParseriOS):JSONParseriOS.JSONSerializable.fromJson (jsonInfo : Any) -&gt; Swift.AnyObject"
+                  moduleName = "JSONParseriOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klausvillaca/development/xCodeProjects/swift/JSONParseriOS/JSONParseriOS/Parsers.swift"
+                  timestampString = "497628666.071405"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "3684">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSONParseriOS/Parsers.swift"
+            timestampString = "502676292.479163"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in JSONParseriOSTests):JSONParseriOSTests.JSONSerializable.fromJson (jsonInfo : Any) -&gt; Swift.AnyObject"
+                  moduleName = "JSONParseriOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klausvillaca/development/xCodeProjects/swift/JSONParseriOS/JSONParseriOS/Parsers.swift"
+                  timestampString = "497494815.207702"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in JSONParseriOS):JSONParseriOS.JSONSerializable.fromJson (jsonInfo : Any) -&gt; Swift.AnyObject"
+                  moduleName = "JSONParseriOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klausvillaca/development/xCodeProjects/swift/JSONParseriOS/JSONParseriOS/Parsers.swift"
+                  timestampString = "497494815.252219"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSONParseriOSTests/JSONParserTests.swift"
+            timestampString = "497494048.943749"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSONParseriOS/Parsers.swift"
+            timestampString = "502676292.479163"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in JSONParseriOSTests):JSONParseriOSTests.JSONSerializable.fromJson (jsonInfo : Any) -&gt; Swift.AnyObject"
+                  moduleName = "JSONParseriOSTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klausvillaca/development/xCodeProjects/swift/JSONParseriOS/JSONParseriOS/Parsers.swift"
+                  timestampString = "497628666.067295"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "2035">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(extension in JSONParseriOS):JSONParseriOS.JSONSerializable.fromJson (jsonInfo : Any) -&gt; Swift.AnyObject"
+                  moduleName = "JSONParseriOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/klausvillaca/development/xCodeProjects/swift/JSONParseriOS/JSONParseriOS/Parsers.swift"
+                  timestampString = "497628666.073595"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "2035">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSONParseriOSTests/JSONParserTests.swift"
+            timestampString = "497496839.429772"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSONParseriOSTests/JSONParserTests.swift"
+            timestampString = "502168809.470008"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "testWithProtocolsAndExtensiondWithSuccess()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSONParseriOSTests/JSONParserTests.swift"
+            timestampString = "502168809.470008"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "testWithProtocolsAndExtensiondWithSuccess()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JSONParseriOSTests/ArrayTests.swift"
+            timestampString = "502676422.994318"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "testArrayTestsTestsSuccess()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
